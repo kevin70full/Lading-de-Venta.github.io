@@ -1,4 +1,4 @@
-body {
+/* body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
@@ -582,4 +582,4 @@ body {
     #posts {
       grid-template: repeat(6, 1fr) / repeat(1, 1fr);
     }
-  }
+  } */
